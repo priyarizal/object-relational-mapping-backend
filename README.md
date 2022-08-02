@@ -84,7 +84,7 @@ router.get('/:id', async (req, res) => {
 - dotenv
 
 
-## Gif walkthrough
+## Screenshots
 ![gif of demo](./Develop/images/1.png)
 
 ## License
