@@ -9,7 +9,7 @@ This application is mimicking a back end for an e-commerce site configuring a wo
 - GitHub URL : https://github.com/priyarizal object-relational-mapping-backend
 
 ```
-Please copy this link and paste on your browser to see the functionality
+Please copy this link and paste on your browser to see the functionality. YOU MAY NEED TO DOWNLOAD THE FILE. 
 ```
 https://drive.google.com/file/d/1VxafwcTWmcO_p-UQeRa4XEl7rBeCmnhZ/view
 
