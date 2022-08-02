@@ -17,10 +17,6 @@ router.get('/', async (req, res) => {
   } catch (err) {
     res.status(500).json(err);
   }
-  // Category.findAll(
-  //   { include: [Product], }
-  // ).then((categories) => res.json(categories))
-  //   .catch((err) => res.status(500).json(err))
 });
 
 
@@ -39,13 +35,6 @@ router.get('/:id', async (req, res) => {
     res.status(500).json(err);
   }
 });
-
-
-//  Category.findOne({where:req.params.id,
-//        include: [Product]
-//     }).then( (category) => res.json(category))
-//     .catch((err)=> res.status(400).json(err));
-
 
 
 // create a new category

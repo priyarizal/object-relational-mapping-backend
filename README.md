@@ -85,7 +85,7 @@ router.get('/:id', async (req, res) => {
 
 
 ## Gif walkthrough
-![gif of demo](./public/assets/images/notes.gif)
+![gif of demo](./Develop/images/1.png)
 
 ## License
 MIT
